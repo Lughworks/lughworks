@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-github-storage-path/devices-mockup.jpg" width="850" alt="Lughworks OS Interface" />
+  <img src="https://raw.githubusercontent.com/Lughworks/lughworks/refs/heads/main/devices-mockup.png" width="850" alt="Lughworks OS Interface" />
 </p>
 
 <div align="center">
