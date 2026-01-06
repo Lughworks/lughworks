@@ -91,29 +91,17 @@
   </a>
 </div>
 
-<br>
-
 <p align="center">
-  <a href="YOUR_STORE_URL">
+  <a href="https://lughworks.tebex.io/">
     <img src="https://img.shields.io/badge/VISIT_THE_FORGE-LUGHWORKS_STORE-00d2ff?style=for-the-badge&logo=shopify&logoColor=0D1117" />
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=2&width=400" />
 </p>
 
-
-
-
-
-
-
-
-
-
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=60&text=INTERFACE%20DEPLOYMENT%20%2F%2F%20SYSTEM_OS&fontSize=25&fontAlignY=55&fontColor=0D1117" width="100%" />
@@ -150,4 +138,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=2&width=600" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=60&section=footer" width="100%"/>
 </p>
