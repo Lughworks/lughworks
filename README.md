@@ -52,7 +52,7 @@
 | 📂 PROJECT_NAME | 🛠️ PRIMARY_STACK | 🔗 ACCESS_POINT |
 | :--- | :--- | :--- |
 | **FiveM-Script** | `Lua` // `SQL` | [OPEN_REPO](https://github.com/Lughworks/ts-management) |
-| **Training-Website** | `HTML` // `JAVASCRIPT` // `CSS` | [OPEN_REPO](https://github.com/Lughworks/lw-trainers-home) // [OPEN_PAGE](www.lughworks.info) |
+| **Training-Website** | `HTML` // `JAVASCRIPT` // `CSS` | [OPEN_REPO](https://github.com/Lughworks/lw-trainers-home) // [OPEN_PAGE](https://www.lughworks.info) |
 | **Live-Project** | `FiveM` // `Community` | [OPEN_PAGE](https://lughworks.github.io/ember-city-roleplay/) |
   
 </div>
